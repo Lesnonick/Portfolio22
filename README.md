@@ -9,6 +9,7 @@
 
 ## Работа
 - [АО ГНЦ "Центр Келдыша"](https://keldysh-space.ru/) 
+
 ![](https://mipt.ru/dasr/css/images/bazes/heat.png)
 
 ### Должности
@@ -24,3 +25,8 @@
 - Моделирование с помощью прикладных пакетов
 - Проведение и обработка экспериментов
 - Написание кучи бесполезных отчётных бумаг в Роскосмос
+
+## Контакты
+Email: selivertov.nd@phystech.edu
+телефон: +79875692452588756
+Github: [Lesnonick](https://github.com/Lesnonick)
